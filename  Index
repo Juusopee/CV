@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title> Juuson HTML projekti </title>
+</head>
+
+<body>
+  <h1> Juuso Pohjanharju </h1>
+  <p> Tuleva koodari <b>Nykyinen haaveilija</b></p>
+
+<hr>
+<ul>
+  <p>
+    The complete app development course
+  </p>
+</ul>
+<li>
+  Kuntosali
+</li>
+</body>
+</html>
